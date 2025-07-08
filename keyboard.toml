@@ -23,15 +23,15 @@ keymap = [
         ["Escape", "Kc1","Kc2","Kc3","Kc4","Kc5","Kc6","Kc7","Kc8","Kc9","Kc0","Minus","Equal","Backslash"],
         ["Tab", "Q","W","E","R","T","Y","U","I","O","P","LeftBracket","RightBracket","Backspace"],
         ["LCtrl", "A","S","D","F","G","H","J","K","L","Semicolon","Quote","Enter","Grave"],
-        ["LShift", "Z","X","C","V","B","N","M","Comma","Dot","Slash","RShift","MO(1)"],
-        ["CapsLock", "LAlt","LGui","Space","RGui","RAlt","RCtrl"]
+        ["LShift", "Z","X","C","V","B","N","M","Comma","Dot","Slash","RShift","MO(1)","_"],
+        ["CapsLock", "LAlt","LGui","_","_","_","Space","_","_","_","RGui","RAlt","RCtrl","_"]
     ],
     [
         ["_", "F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12","_"],
         ["CapsLock", "_","_","_","_","_","_","_","_","_","Up","LeftBracket","_","_"],
         ["_", "_","_","_","_","_","_","_","_","Left","Right","_","_","_"],
-        ["_", "_","_","_","_","_","_","_","_","Down","_","_","_"],
-        ["_","_","_","_","_","_","_"]
+        ["_", "_","_","_","_","_","_","_","_","Down","_","_","_","_"],
+        ["_","_","_","_","_","_","_","_","_","_","_","_","_","_"]
     ],
 ]
 
